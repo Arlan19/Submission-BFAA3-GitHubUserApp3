@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHubUserApp3</string>
+    <string name="logo_github">logo GitHub</string>
+    <string name="search_username">Username</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="number">0</string>
+    <string name="favorite_user">favorite user</string>
+    <string name="change_language">change language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="theme_setting">theme setting</string>
+    <string name="setting_name">Setting</string>
+    <string name="github">GitHub</string>
+    <string name="user_avatar">user avatar</string>
+    <string name="search_icon">search icon</string>
+
+</resources>
